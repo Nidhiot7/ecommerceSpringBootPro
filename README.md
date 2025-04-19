@@ -36,7 +36,7 @@ src/ ├── main/ │ ├── java/ │ │ └── com.ecommerce/ │ �
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jaygajera17/E-commerce-project-springBoot.git
+git clone [https://github.com/Nidhiot7/ecommerceSpringBootPro.git]
 cd E-commerce-project-springBoot
 
 2. Configure the Database
@@ -48,28 +48,28 @@ db.password=your_mysql_password
 spring.jpa.hibernate.ddl-auto=update
 
 3. Run the Application
-Open the project in your IDE.
+- Open the project in your IDE.
 
-Run the JtSpringProjectApplication.java class.
+- Run the JtSpringProjectApplication.java class.
 
-Visit http://localhost:8080
+- Visit http://localhost:8080
 
 🔑 Default Credentials
 Admin:
 
-Username: admin
+- Username: admin
 
-Password: 123
+- Password: 123
 
 User:
 
-Username: lisa
+- Username: lisa
 
-Password: 765
+- Password: 765
 
 📂 Database Setup
-Ensure MySQL/MariaDB is installed.
+- Ensure MySQL/MariaDB is installed.
 
-Create the database manually: CREATE DATABASE ecommjava;
+- Create the database manually: CREATE DATABASE ecommjava;
 
-Optionally run basedata.sql if available to insert sample data.
+- Optionally run basedata.sql if available to insert sample data.
